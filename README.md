@@ -1,7 +1,12 @@
-# cep-searcher
+# Cep searcher
 
-Validador de CEP. Exibe:
-- Endereço
-- Estado
-- Bairro
-- Google Maps
+## About
+> A CEP searcher.
+
+## Functions
+> The script retrieves the following informations of the CEP entered by the user:
+
+> Endereço; <br/>
+> Estado; <br/>
+> Bairro; <br/>
+> Google Maps; <br/>
